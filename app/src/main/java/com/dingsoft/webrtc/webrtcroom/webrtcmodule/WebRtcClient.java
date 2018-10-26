@@ -75,8 +75,6 @@ public class WebRtcClient {
     private MediaConstraints audioConstraints;
     //PeerConnect sdp约束
     private MediaConstraints sdpMediaConstraints;
-    //本地MediaStream
-    private MediaStream localMS;
     //本地Video视频资源
     private VideoSource localVideoSource;
     //视频Track
