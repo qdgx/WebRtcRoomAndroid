@@ -18,7 +18,7 @@ import org.webrtc.VideoTrack;
 
 /**
  * PeerConnection通道封装，包括PeerConnection创建及状态回调
- * Created by chengshaobo on 2018/10/22.
+ * Created by chengshaobo on 2018/10/23.
  */
 
 public class Peer implements SdpObserver, PeerConnection.Observer {
