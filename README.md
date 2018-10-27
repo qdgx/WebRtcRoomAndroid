@@ -1,7 +1,11 @@
 # WebRtcRoomAndroid
 WebRtcRoom for Android，使用google发布最新webRtc库编译(org.webrtc:google-webrtc:1.0.25331)，信令服务器使用 Socket.IO(io.socket:socket.io-client:1.0.0)。
 
-Android，iOS，Html，Server均做了实现，若有需要可分别查看。
+Android，iOS，Html，Server均做了实现，若有需要可分别查看:
+
+WebRtcRoomHtml: https://github.com/qdgx/WebRtcRoomHtml
+
+WebRtcRoomServer: https://github.com/qdgx/WebRtcRoomServer
 
 # 接口说明
 
